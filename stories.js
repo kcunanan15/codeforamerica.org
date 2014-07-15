@@ -28,7 +28,7 @@ on_stories(
     */
     {
         "head_html": "<a href='apply'>Across the U.S.</a>",
-        "content_html": "102 Fellows have been embedded in 32 local governments to build applications that address issues important to the community. Applications for the 2015 Fellowship close July 15.",
+        "content_html": "102 Fellows have been embedded in 32 local governments to build applications that address issues important to the community.",
         "image source": "http://www.flickr.com/photos/bytemarks/7673631824/",
         "image_src": "media/images/geeks/fellowship-apply.jpg"
     }
